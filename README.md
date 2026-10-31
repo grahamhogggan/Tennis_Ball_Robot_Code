@@ -19,3 +19,4 @@ How the code was made:
 * communicates with the two Roboclaw units in packet serial mode
 * used a UDP socket to send keyboard input to the raspberry pi, which takes that input and controls the motors accordingly
 * Communicates with kicker bar motor controller using GPIO pins
+<img width="4032" height="2268" alt="IMG_3467" src="https://github.com/user-attachments/assets/66ba7f00-30b7-4422-9d9a-2fdf019b7146" />
